@@ -13,4 +13,3 @@
 
 
 - We know that supermassive black holes play a central role in regulating star formation, but how they do it is a major unanswered question. To investigate questions like this, we need to combine optical and radio information together.
-Play 
