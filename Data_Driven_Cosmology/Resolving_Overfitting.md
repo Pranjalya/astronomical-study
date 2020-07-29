@@ -45,3 +45,13 @@ Galaxy with an AGN.
 
 * The light emitted from the AGN is significantly brighter than the rest of the galaxy and we are able to detect these QSOs out to much higher redshifts. In fact, most of the normal galaxies we have been using to create our models have redshifts less than z≈0.4, while the QSOs have redshifts all the way out to z≈6. Due to this contribution from the AGN, the flux magnitudes measured at different wavelengths might not follow the typical profile we assumed when predicting redshifts. 
 
+#### QSOs vs Galaxies
+
+*  So our QSOs have a greater median residual (≈0.074) than the galaxies (≈0.016). There are a couple of possibilities why this is the case.
+
+    - There are far fewer QSOs (8525) than galaxies (41,475).
+    - Galaxies aren't as bright as QSOs so they become too faint to be detected with SDSS at redshifts ≈ 0.4. This creates a measurement bias.
+
+* When I take a random sample of galaxies the same size as the QSO data set I get a med_diff of (approx) 0.018 which is slightly higher than the full set, but not enough to account for the gap between the two populations. 
+
+* We can see that the majority of galaxies form a peak around 0.10 while the QSOs are resonably evenly distributed out to redshift ≈2.5. This can lead to a measurement bias. In the case of the galaxies we have trained our decision tree with target redshifts approximately less than 0.4. As such the predictions from this model will not be larger than the maximum target value. So the maximum difference (or residual) for each galaxy in this set will be a lot smaller than the maximum residual for the QSOs. 
