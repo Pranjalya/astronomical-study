@@ -40,3 +40,7 @@ So a more sensible baseline system that machine learning researchers use is to r
         - For example a deeply nested decision tree can accurately reproduce the training data, but fails to capture any generalizations that are necessary for classifying other instances.
     3. Finally, in the process of optimizing your choice of machine learner, we may have optimized for the specific training set, and not the real distribution.
         - This can be largely overcome by using the 10-fold cross validation to test your final system, or using a separate held-out test set that is only used to evaluate your final model. 
+
+##### Some of the manual classification projects
+
+_If you want to do further reading on machine learning classification, and on the science that comes from Galaxy Zoo, there are a list of Galaxy Zoo publications here: https://www.zooniverse.org/about/publications._
