@@ -3,6 +3,8 @@
 * As more and more galaxies were found,
 particularly in the 19th and early 20th centuries, astronomers observed that they had a great diversity in appearance otherwise known as morphology. As a first step to understanding how galaxies formed and evolved, astronomers began grouping them together based on similar appearances, forming a _Morphological Classification Scheme_.
 
+![Hubble Tuning Fork](https://github.com/Pranjalya/astronomical-study/tree/master/Galaxy_Classification/data/hubbletuningfork.jpeg)
+
 * The most famous of these is the _Hubble tuning fork_.
     - Hubble divided galaxies into elliptical galaxies and spiral galaxies with the intermediate lenticular, or S zero class in between. 
     - Elliptical and lenticular galaxies are collectively known as early-type galaxies, because of their simple appearance. 
@@ -41,7 +43,7 @@ particularly in the 19th and early 20th centuries, astronomers observed that the
     - Massive stars are very hot and are blue-white in color, but these starts burn their fuel very quickly and die after only a few million years. 
     - Low-mass stars which are very long-lived are cooler and much redder.
     - Therefore blue spiral galaxies contain many recently born hot massive stars and are actively forming new stars. 
-    - In contrast elliptical galaxies contain mainly colder, red, old stars and stopped forming new stars billion of years ago. \
+    - In contrast elliptical galaxies contain mainly colder, red, old stars and stopped forming new stars billion of years ago.
 
 * As well as stars spiral galaxies contain lots of gas, the fuel for star formation, and dust, a product of star formation. 
     - Whereas elliptical galaxies have very little gas and dust, which is consistent with their lack of young stars.
