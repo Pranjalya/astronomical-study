@@ -4,4 +4,4 @@ A compilation of various studies, tools and techniques to be used in the field o
 
 The current sources include: 
 - __Sloan Digital Sky Survey__
-- __Data Driven Astronomy(_University of Sydney_)__
+- __Data Driven Astronomy (_University of Sydney_)__
