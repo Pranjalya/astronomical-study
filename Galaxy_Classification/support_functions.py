@@ -3,6 +3,9 @@ import itertools
 from matplotlib import pyplot as plt
 
 
+def calculate_accuracy(predicted_classes, actual_classes, ):
+    return sum(actual_classes[:] == predicted_classes[:]) / len(actual_classes)
+
 
 def generate_features_targets(data):
     output_targets = np.empty(shape=(len(data)), dtype='<U20')
@@ -24,7 +27,6 @@ def generate_features_targets(data):
     input_features[:, 12] = data['petroR50_z'] / data['petroR90_z']
 
     return input_features, output_targets
-
 
 
 def plot_confusion_matrix(cm, classes,
