@@ -18,7 +18,7 @@
 
 * Overfitting is a common problem with decision trees and can be circumvented by adjusting parameters like the tree depth or setting a minimum number of cases at each node.
 
-### Cros Validation
+### Cross Validation
 
 * The method we used to validate our model so far is known as hold-out validation. Hold out validation splits the data in two, one set to test with and the other to train with. Hold out validation is the most basic form of validation.
 
