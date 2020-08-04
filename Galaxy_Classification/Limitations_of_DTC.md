@@ -11,6 +11,8 @@
     - The cells on the diagonal show the true positives, where predicted classes equal true classes.
     - And the other cells visualize false positives, summing the rest of the column, and the false negatives, summing the rest of the row. 
 
+![Galaxy Zoo Decision Tree](https://github.com/Pranjalya/astronomical-study/tree/master/Galaxy_Classification/data/galaxyzoo.png)
+
 #### Setting Baslines
 
 * As an absolute minimum baseline accuracy, you could consider the result you'd get by classifying your entire testing set by randomly assigning a class.
