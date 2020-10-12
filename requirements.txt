@@ -3,3 +3,4 @@ astropy
 scipy
 matplotlib
 psycopg2
+scikit-learn
